@@ -80,3 +80,31 @@
 [11/14/11 23:26:52 -0500 bushido.local (55257)] INFO : Application: pusher-example
 [11/14/11 23:26:52 -0500 bushido.local (55257)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 55257
 [11/14/11 23:26:52 -0500 bushido.local (55257)] INFO : Agent Log at /Users/stolt45/Projects/heroku/bostonrb/pusher45/log/newrelic_agent.log
+[11/15/11 12:27:00 -0500 bushido.local (61302)] INFO : Dispatcher: thin
+[11/15/11 12:27:00 -0500 bushido.local (61302)] INFO : Application: pusher-example
+[11/15/11 12:27:00 -0500 bushido.local (61302)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 61302
+[11/15/11 12:27:00 -0500 bushido.local (61302)] INFO : Agent Log at /Users/stolt45/Projects/heroku/bostonrb/pusher45/log/newrelic_agent.log
+[11/15/11 12:27:10 -0500 bushido.local (61302)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[11/15/11 12:27:10 -0500 bushido.local (61302)] ERROR : The account 'pusher-example Heroku_1' is not active. Please contact support@newrelic.com.
+[11/15/11 12:27:10 -0500 bushido.local (61302)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[11/15/11 12:29:42 -0500 bushido.local (61365)] INFO : Dispatcher: thin
+[11/15/11 12:29:42 -0500 bushido.local (61365)] INFO : Application: pusher-example
+[11/15/11 12:29:42 -0500 bushido.local (61365)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 61365
+[11/15/11 12:29:42 -0500 bushido.local (61365)] INFO : Agent Log at /Users/stolt45/Projects/heroku/bostonrb/pusher45/log/newrelic_agent.log
+[11/15/11 12:29:52 -0500 bushido.local (61365)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[11/15/11 12:29:53 -0500 bushido.local (61365)] ERROR : The account 'pusher-example Heroku_1' is not active. Please contact support@newrelic.com.
+[11/15/11 12:29:53 -0500 bushido.local (61365)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[11/15/11 13:05:27 -0500 bushido.local (61711)] INFO : Dispatcher: thin
+[11/15/11 13:05:27 -0500 bushido.local (61711)] INFO : Application: pusher-example
+[11/15/11 13:05:27 -0500 bushido.local (61711)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 61711
+[11/15/11 13:05:27 -0500 bushido.local (61711)] INFO : Agent Log at /Users/stolt45/Projects/heroku/bostonrb/pusher45/log/newrelic_agent.log
+[11/15/11 13:05:37 -0500 bushido.local (61711)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[11/15/11 13:05:37 -0500 bushido.local (61711)] ERROR : The account 'pusher-example Heroku_1' is not active. Please contact support@newrelic.com.
+[11/15/11 13:05:37 -0500 bushido.local (61711)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[11/15/11 14:30:31 -0500 bushido.local (62096)] INFO : Dispatcher: thin
+[11/15/11 14:30:31 -0500 bushido.local (62096)] INFO : Application: pusher-example
+[11/15/11 14:30:31 -0500 bushido.local (62096)] INFO : New Relic Ruby Agent 3.3.0 Initialized: pid = 62096
+[11/15/11 14:30:31 -0500 bushido.local (62096)] INFO : Agent Log at /Users/stolt45/Projects/heroku/bostonrb/pusher45/log/newrelic_agent.log
+[11/15/11 14:30:41 -0500 bushido.local (62096)] INFO : Resolved collector.newrelic.com to 204.93.223.153
+[11/15/11 14:30:41 -0500 bushido.local (62096)] ERROR : The account 'pusher-example Heroku_1' is not active. Please contact support@newrelic.com.
+[11/15/11 14:30:41 -0500 bushido.local (62096)] INFO : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
