@@ -20,12 +20,12 @@ task "jobs:work" do
   TweetStream::Client.new.track(ENV["TWITTER_KEYWORD"]) do |status|
     puts "%s: %s" % [ status[:user][:screen_name], status[:text] ]
     Pusher['tweets'].trigger('tweet', status)
-  #end
+  end
 end
 
 task "jobs:low" do
   while true
     puts "grabbing a job from the low priority queue"
     sleep 5
-  end
+  #end
 end
