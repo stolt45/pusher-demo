@@ -20,7 +20,7 @@ task "jobs:work" do
   TweetStream::Client.new.track(ENV["TWITTER_KEYWORD"]) do |status|
     puts "%s: %s" % [ status[:user][:screen_name], status[:text] ]
     Pusher['tweets'].trigger('tweet', status)
-  end
+  #end
 end
 
 task "jobs:low" do
