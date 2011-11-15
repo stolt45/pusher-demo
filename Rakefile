@@ -23,9 +23,9 @@ task "jobs:work" do
   end
 end
 
-task "jobs:low" do
+task "jobs:slow" do
   while true
     puts "grabbing a job from the low priority queue"
-    sleep 5
+    sleep 4
   end
 end
