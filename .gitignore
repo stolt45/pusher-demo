@@ -1,3 +1,3 @@
 .env
 .orig_env
-log/*
+log
