@@ -26,6 +26,6 @@ end
 task "jobs:low" do
   while true
     puts "grabbing a job from the low priority queue"
-    sheep 5
+    sleep 5
   end
 end
