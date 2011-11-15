@@ -26,6 +26,6 @@ end
 task "jobs:slow" do
   while true
     puts "grabbing a job from the low priority queue"
-    sleep 4
+    sleep 3 
   end
 end
