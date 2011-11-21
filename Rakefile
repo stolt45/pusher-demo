@@ -3,6 +3,7 @@ require "bundler/setup"
 require "pusher"
 require "tweetstream"
 
+
 STDOUT.sync = true
 
 TweetStream.configure do |config|
