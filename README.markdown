@@ -10,7 +10,7 @@
 * Dependencies
 
     [Pusher](http://addons.heroku.com/pusher)
-    # to add to a heroku app
+    #to add to a heroku app
     $ heroku addons:add pusher:sandbox
 
     [Twitter's Sreaming API](https://dev.twitter.com/docs/streaming-api)
