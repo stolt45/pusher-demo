@@ -10,10 +10,6 @@ get "/" do
   erb :index
 end
 
-get "/low" do
-  erb :low
-end
-
 get "/bad" do
   raise "this is an error"
 end
@@ -32,4 +28,3 @@ end
 use HoptoadNotifier::Rack
 
 run Sinatra::Application
-
